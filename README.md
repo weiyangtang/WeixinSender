@@ -13,7 +13,9 @@ pip install xlutils
 git clone https://github.com/weiyangtang/WeixinSender.git
 ```
 或者直接[GitHub - weiyangtang/WeixinSender: 利用itchat实现微信批量每天定时发送消息](https://github.com/weiyangtang/WeixinSender)点击下载
+
 ![](https://ws1.sinaimg.cn/large/007EXT0fgy1g16tfi27bjj31hc0p40u6)
+
 ### 文件结构
 ![](https://ws1.sinaimg.cn/large/007EXT0fgy1g16tdcdw2hj308i04o0sl)
 ### 使用说明
